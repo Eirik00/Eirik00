@@ -1,6 +1,6 @@
 <h1 align="center">I'm Wind</h1>
-<h3 align="center">I guess i really like to code</h3>
-<h3 align="center">Here are some stupid stuff bellow :)</h3>
+<h3 align="center">Welcome to my github</h3>
+<h3 align="center">Hope you find some cool stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eirik00&label=Profile%20views&color=0e75b6&style=flat" alt="eirik00" /> </p>
 
